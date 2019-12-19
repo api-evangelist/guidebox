@@ -1,0 +1,51 @@
+{
+    "name": "Guidebox",
+    "description": "The Guidebox API is a movie, TV and Video API. Get information on movies, tv shows, videos and episodes. Access all the data through the web interface or through the JSON API.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/",
+    "tags": [
+        "api provider",
+        "entertainment",
+        "have api",
+        "profile",
+        "televisions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/guidebox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Guidebox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/",
+            "humanURL": "https:\/\/www.guidebox.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/guidebox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/guidebox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/guidebox"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.guidebox.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.guidebox.com\/"
+        }
+    ]
+}
